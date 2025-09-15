@@ -7,8 +7,6 @@ Kairo is a full-stack personal cloud storage application built from the ground u
 ### 🔴 **Live Demo:** [https://velvety-rabanadas-400b48.netlify.app](https://velvety-rabanadas-400b48.netlify.app)
 
 
-*(Suggestion: Replace this line with a real screenshot or GIF of your application's dashboard)*
-
 ---
 
 ## Core Features
